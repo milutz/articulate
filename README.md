@@ -3,6 +3,7 @@
 ## A platform for building conversational interfaces with intelligent agents
 
 [![Join the chat at https://gitter.im/samtecspg/articulate](https://badges.gitter.im/samtecspg/articulate.svg)](https://gitter.im/samtecspg/articulate?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmilutz%2Farticulate.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmilutz%2Farticulate?ref=badge_shield)
 
 ![Articulate Interface](./docs/img/main-ilus.png)
 
@@ -45,3 +46,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmilutz%2Farticulate.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmilutz%2Farticulate?ref=badge_large)
