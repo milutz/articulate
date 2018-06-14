@@ -13,6 +13,7 @@ Server((err, server) => {
         console.error(err);
         console.log('process.exit(1)');
         return process.exit(1);
+        miketest=10
     }
 
     const swaggerOptions = {
