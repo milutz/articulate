@@ -8,7 +8,7 @@ version: '3.0'
 services:
   api:
     image: samtecspg/articulate-api:repo-head
-    ports: ['0.0.0.0:7500:7500']
+    expose: ['7500']
     networks: ['alpha-nlu-network']
     # The following (crazy) block is about both:
     # 1) setting default values for app parameteres
